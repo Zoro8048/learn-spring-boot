@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 12 22:32:02 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-cd25-60aa-00000b8c6730 
+on database directory memory:/Users/Keerthan/MyWork/SprintBoot/course-api/testdb with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/Users/Keerthan/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_292-b10
+user.dir=/Users/Keerthan/MyWork/SprintBoot/course-api
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
